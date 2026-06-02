@@ -1,7 +1,8 @@
+streamlit
 pandas
 numpy
 matplotlib
-scikit-learn==1.5.2
+scikit-learn
 statsmodels
-streamlit
+scipy
 openpyxl
